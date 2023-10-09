@@ -53,6 +53,15 @@ Attributes
             Teammate is more likely to feel interested in achieving sales goals set by Management
             Teammate is more likely to apply for open management positions or move within the company
             Teammate is more likely to attend school outside of work
+            Teammate is more likely to perform better after receiving discipline
+        Mr. Schadenfreude
+            More likely to feel happy when someone they dislike does not receive a promotion
+            More likely to feel happy when someone they dislike receives discipline
+            More likely to feel upset if someone receives praise for their performance publically
+        Competitive
+            More likely to want to perform better than a rival at work
+            More likely to want to perform better after receiving discipline
+            
     Physical
         Obese
             Teammate may consume more food than their colleagues
@@ -112,6 +121,7 @@ Attributes
 
 Gameplay -
     Office
+        Office amenities can influence employee fatigue and happiness at work 
 
     Contracts
         There are 40 companies available to get contracts from.
@@ -126,8 +136,16 @@ Gameplay -
             Company commission rate
             Whether you are allowed to work for other companies, and which ones you can't work with
                 Only international companies will require complete exclusivity
-                
 
+    Policy
+        Company policy can play a large part in how employees feel about working
+        Employees who are introverted may prefer to work from home, whereas employees who are extroverted may feel unhappy if everyone is required to work from home.
+
+        Policies
+            Base Salary
+            Raises
+            Bonuses
+            Commission Rate
 
     Employees
 

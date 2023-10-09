@@ -1,0 +1,7 @@
+name,price,base_commission_rate,add_commission_rate
+1 Month Package,450,0.2,0
+3 Month Package,1350,0.2,0
+6 Month Package,2700,0.15,0
+9 Month Package,4050,0.15,0
+12 Month Package,5400,0.1,0
+24 Month Package,10800,0.1,0
