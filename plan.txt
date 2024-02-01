@@ -122,6 +122,10 @@ Attributes
 Gameplay -
     Office
         Office amenities can influence employee fatigue and happiness at work 
+        Work software could impact how employees operate or follow policies
+            Time Management
+                Poor time management software might result in more employees clocking in or out incorrectly, which could result in attendance infractions or unapproved overtime pay
+                Poor time management might result in higher costs by creating the need to hire teams dedicated to scheduling
 
     Contracts
         There are 40 companies available to get contracts from.

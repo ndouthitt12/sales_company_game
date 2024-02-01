@@ -7,7 +7,7 @@ import sys
 import sqlite3
 
 
-days = 260
+days = 22
 
 salespeople = []
 
@@ -52,6 +52,8 @@ class Salesperson:
         self.sales_count = []
         self.attempts = 0
         self.bonus = 0
+        self.pto_days = 0
+        self.uto_days = 0
         self.vacation_days_used = 0
         self.vacation_days_remaining = 16
         self.days_worked = 0
@@ -319,7 +321,7 @@ def main():
         for salesperson in salespeople:
             if not salesperson.take_vacation():
                 company.generate_sales(salesperson)
-            salesperson.days_worked += (days/5)
+            salesperson.days_worked += 1
         company.update_payroll()
         company.update_profit()
 
