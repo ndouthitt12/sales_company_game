@@ -1,0 +1,8 @@
+[ ] - Hiring
+    [ ] - Database of generated applicants to choose from to interview:
+            - Applicants will have a few ratings / attributes that influence whether they apply to the company or not.
+                - Interest - How interested an applicant is in the role.
+                - Salary Range - What salary they are expecting.
+                - Shift - What days off or time of day they are okay with working.
+
+                
